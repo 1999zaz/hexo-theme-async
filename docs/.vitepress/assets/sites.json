@@ -52,5 +52,10 @@
         "url": "https://blog.gfxgy.cn/",
         "avatar": "https://blog.gfxgy.cn/img/my.jpg",
         "desc": "桃之夭夭，灼灼其华。"
+    },
+    {
+        "name":"张鱼锅巴",
+        "url":"https://1999zaz.github.io",
+        "desc":"萌新小白"
     }
 ]
